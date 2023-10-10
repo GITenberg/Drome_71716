@@ -1,11 +1,16 @@
 _repo: Drome_71716
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71716-h/images/cover.jpg
 creator:
   author:
     agent_name: Leahy, John Martin
     gutenberg_agent_id: '56348'
     url: http://www.gutenberg.org/2009/agents/56348
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71716#Drome
 gutenberg_issued: '2023-09-24'
 identifiers:
   gutenberg: '71716'
